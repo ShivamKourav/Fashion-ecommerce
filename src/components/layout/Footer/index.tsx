@@ -28,7 +28,7 @@ const socialsData: SocialNetworks[] = [
   {
     id: 4,
     icon: <FaGithub />,
-    url: "https://github.com/NafisRayan",
+    url: "https://github.com/shivamKourav",
   },
 ];
 
@@ -105,10 +105,10 @@ const Footer = () => {
             <p className="text-sm text-center sm:text-left text-black/60 mb-4 sm:mb-0 sm:mr-1">
               TEEZ.LO © Made by{" "}
               <Link
-                href="https://github.com/NafisRayan"
+                href="https://github.com/shivamKourav"
                 className="text-black font-medium"
               >
-                Mohammad Oftadeh
+                shivam kourav
               </Link>
               {", "}
               Designed by{" "}
@@ -116,7 +116,7 @@ const Footer = () => {
                 href="https://www.figma.com/@hamzauix"
                 className="text-black font-medium"
               >
-                Hamza Naeem
+                shakti 
               </Link>
             </p>
             <div className="flex items-center">
